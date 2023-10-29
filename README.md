@@ -1,4 +1,10 @@
-# Tweet Emotion Recognition: Natural Language Processing with TensorFlow
+
+<h1 align="center" id="title">Tweet Emotion Recognition: Natural Language Processing with TensorFlow</h1>
+
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-784.gif" alt="Centered GIF">
+</div>
+---
 
 ## Overview
 
